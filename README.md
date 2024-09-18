@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **servan.servettoglu@gmail.com**
 
-- 📄 Know about my experiences [I'am a junior developer](I'am a junior developer)
+- 📄 Know about my experiences [I'am a junior developer]
 
 - ⚡ Fun fact **Hırsım mı büyük React mı ?**
 
