@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şervan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Inter Developer atİstanbul Senin](https://istanbulsenin.istanbul/)
+- 🔭 I’m currently working on [Inter Developer at İstanbul Senin](https://istanbulsenin.istanbul/)
 
 - 🌱 I’m currently learning **React.js Zustand Next.js**
 
